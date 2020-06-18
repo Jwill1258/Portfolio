@@ -30,12 +30,12 @@ class Contact extends Component {
                   </ListItemContent>
                 </ListItem>
 
-                <ListItem>
+                {/* <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-fax" aria-hidden="true"/>
                     (xxx) xxx-xxxx
                   </ListItemContent>
-                </ListItem>
+                </ListItem> */}
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
