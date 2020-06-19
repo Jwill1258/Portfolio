@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
+import { Cell, Grid, List, ListItem, ListItemContent } from 'react-mdl';
 
 
 class Contact extends Component {
@@ -14,7 +14,9 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Full stack web developer with a certificate from the University of Central Florida Full Stack Dev program. I also have a background in Graphic Design, Operations, and Finance, mostly in regards to how they correlate with maintaining systems and data for compliance, regulation, and advancing efficiency. While working in this realm, I understood I was intrinsically drawn to the process of helping a business grow through backend protocols and discovered a great passion for coding after assisting in the development of a methodology that increase workflow by over 15%. I am excited to bring my knowledge as well as JavaScript, PHP, Node.js, and MySQL skills to the right consumer facing company. 
+
+</p>
 
           </Cell>
           <Cell col={6}>
